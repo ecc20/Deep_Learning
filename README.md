@@ -8,7 +8,7 @@
 * Built from scratch the following types of layers: 2D convolution, max pooling, and linear. Also constructed 2d batch normalization
 * Implemented a ResNet-18 architecture to perform classification on the CIFAR-10 dataset. 
 
-## CW2: VAE and GAN
+### CW2: VAE and GAN
 **Divided in two parts:**
 * The first part consists in a variational autoencoder used in the MINST dataset. In adition to the implementation, the following is shown or discussed
 
@@ -36,7 +36,7 @@ Generator and discriminator's loss curves
 
 Mode collapse
 
-## CW3: RNNs
+### CW3: RNNs
 Implementation:
 * LSTM cell
 * Vanilla cell
